@@ -1,7 +1,7 @@
 ### Hi there, I'm Kenn👋
 
-- 🔭 I’m currently Pursuing a B.S. in Computer 
-- 🌱 I’m attending Cal State University, Fullerton
+- 🔭 I have a B.S. in Computer Science
+- 🌱 I attended Cal State University, Fullerton
 - 👯 I’m looking to collaborate with startups and on open sources
 
 📫 Reach me on
